@@ -31,7 +31,7 @@ export class FfmpegBuilder {
 	}
 }
 
-new FfmpegBuilder()
-	.input('')
-	.setVideoSize(1920, 1080)
-	.output('//')
+// new FfmpegBuilder()
+// 	.input('')
+// 	.setVideoSize(1920, 1080)
+// 	.output('//')

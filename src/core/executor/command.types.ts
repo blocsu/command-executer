@@ -1,4 +1,4 @@
-export interface ICommangExec {
+export interface ICommandExec {
 	command: string;
 	args: string[];
 }
